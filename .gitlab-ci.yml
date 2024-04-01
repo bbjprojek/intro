@@ -1,4 +1,4 @@
-image: node:18-alpine3.17
+image: node:lts
 
 before_script:
   - npm ci
@@ -11,7 +11,6 @@ pages:
   script:
   - npm install
   - npm run build
-  - mv ./dist ./public
   artifacts:
     paths:
     - public

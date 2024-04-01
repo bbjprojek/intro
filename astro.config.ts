@@ -8,7 +8,9 @@ import { SITE } from "./src/config";
 
 // https://astro.build/config
 export default defineConfig({
-  site: SITE.website,
+  site: "https://bbjprojek.org",
+  outDir: "public",
+  publicDir: "static",
   integrations: [
     tailwind({
       applyBaseStyles: false,
