@@ -3,7 +3,7 @@ import type { Site, SocialObjects } from "./types";
 export const SITE: Site = {
   website: "https://bbjprojek.org",
   author: "Gabriel Howard, Sergio Fernández",
-  desc: "A tiny placeholder for big projectse.",
+  desc: "A tiny placeholder for big projects.",
   title: "BBJProjeK",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
