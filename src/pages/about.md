@@ -30,6 +30,7 @@ As said before, we made some branding and designs for other companies and local 
 - Horno Kaprichoso - Branding Design (March, 2024)
 - Factor Bike - Branding and Logo Design (January, 2024)
 - The Candy's Workshop - Branding Design (October, 2023)
+- Abocados - Branding Design (July, 2023)
 
 <div>
   <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
