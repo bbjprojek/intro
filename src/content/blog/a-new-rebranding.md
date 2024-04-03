@@ -1,17 +1,18 @@
 ---
 title: Announcing a new rebranding of BBJProjeK
 author: Sergio Fernández
-pubDatetime: 2024-04-04T09:00:00.000+00:00
+pubDatetime: 2024-04-03T09:00:00.000+00:00
 slug: a-new-rebranding
 draft: false
+featured: false
 tags:
   - bbjprojek
   - branding
 description: "A new logo and branding has been born. Prepare for a new generation of projects"
 ---
 
-<img class="light" src="/src/assets/images/bruuh.png" width="100%" alt="BBJProjeK New and Old Logo">
-<img class="dark" src="/src/assets/images/bruuh_dark.png" width="100%" alt="BBJProjeK New and Old Logo">
+<img class="light" src="/assets/images/bruuh.png" width="1200" alt="BBJProjeK New and Old Logo">
+<img class="dark" src="/assets/images/bruuh_dark.png" width="1200" alt="BBJProjeK New and Old Logo">
 
 Welcome back, reader!
 
@@ -33,8 +34,8 @@ We also started refactoring and rewriting most of our services and tasks in our 
 
 ## The Logo
 
-<img class="light fills" src="/src/assets/images/newone_extended.png" width="100%" alt="BBJProjeK Branding V3a">
-<img class="dark fills" src="/src/assets/images/newone_extended_dark.png" width="100%" alt="BBJProjeK Branding V3a">
+<img class="light fills" src="/assets/images/newone_extended.png" width="1200" alt="BBJProjeK Branding V3a">
+<img class="dark fills" src="/assets/images/newone_extended_dark.png" width="1200" alt="BBJProjeK Branding V3a">
 
 A box, a place, a placeholder... A cube. As simple as that, our organization is just a tiny placeholder, a box for our personal projects. A tiny box that hides a lot of projects and potential.
 
@@ -58,5 +59,5 @@ Thanks to all the organization members as well as our sub-communities and extern
 
 Love from the team <3
 
-<img class="light" src="/src/assets/images/footer.svg" width="100%" alt="BBJProjeK Footer">
-<img class="dark" src="/src/assets/images/footer_dark.svg" width="100%" alt="BBJProjeK Footer">
+<img class="light" src="/assets/images/footer.svg" width="1200" alt="BBJProjeK Footer">
+<img class="dark" src="/assets/images/footer_dark.svg" width="1200" alt="BBJProjeK Footer">
