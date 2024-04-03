@@ -1,0 +1,29 @@
+/* Copyright C 2024 The BBJProjeK Organization */
+
+:root {
+  --ffamily-heading: "IBM Plex Mono",-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  --ffamily-text: "IBM Plex Mono",-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+}
+
+body {
+  background-color: #FFFFFF;
+}
+
+a, p, ol, ul {
+  font-family: var(--ffamily-text);
+}
+
+h1, h2, h3, h4 {
+  font-family: var(--ffamily-heading);
+}
+
+h3, h4 {
+  font-style: italic;
+}
+
+/*** Dark Mode ***/
+@media (prefers-color-scheme: dark) {
+   body {
+     background-color: #1C1E21;
+   }
+ }
