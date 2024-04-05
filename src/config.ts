@@ -6,7 +6,7 @@ export const SITE: Site = {
   desc: "A tiny placeholder for big projects.",
   title: "BBJProjeK",
   ogImage: "astropaper-og.jpg",
-  lightAndDarkMode: true,
+  lightAndDarkMode: false, // use old fashioned way
   postPerPage: 3,
   scheduledPostMargin: 15 * 60 * 1000, // 15 mins
 };

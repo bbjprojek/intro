@@ -4,30 +4,21 @@
 
 @layer base {
   :root,
-  html[data-theme="light"] {
+  html {
     --color-fill: 251, 254, 251;
     --color-text-base: 40, 39, 40;
     --color-accent: 29, 79, 145;
     --color-card: 230, 230, 230;
     --color-card-muted: 205, 205, 205;
     --color-border: 236, 233, 233;
+    --ffamily-heading: "IBM Plex Mono",-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    --ffamily-text: "IBM Plex Mono",-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
   }
-  html[data-theme="dark"] {
-    --color-fill: 28, 30, 33;
-    --color-text-base: 234, 237, 243;
-    --color-accent: 108, 172, 228;
-    --color-card: 52, 63, 96;
-    --color-card-muted: 138, 51, 2;
-    --color-border: 108, 172, 228;
+
+  h3, h4 {
+    /* font-style: italic; */
   }
-  #sun-svg,
-  html[data-theme="dark"] #moon-svg {
-    display: none;
-  }
-  #moon-svg,
-  html[data-theme="dark"] #sun-svg {
-    display: block;
-  }
+
   body {
     @apply flex min-h-[100svh] flex-col bg-skin-fill font-mono text-skin-base
     selection:bg-skin-accent selection:bg-opacity-70 selection:text-skin-inverted;
@@ -132,5 +123,18 @@
   }
   .focus-outline {
     @apply outline-2 outline-offset-1 outline-skin-fill focus-visible:no-underline focus-visible:outline-dashed;
+  }
+}
+
+
+/*** Dark Mode (the old but stable way) ***/
+@media (prefers-color-scheme: dark) {
+  :root, html {
+    --color-fill: 28, 30, 33;
+    --color-text-base: 234, 237, 243;
+    --color-accent: 108, 172, 228;
+    --color-card: 52, 63, 96;
+    --color-card-muted: 138, 51, 2;
+    --color-border: 108, 172, 228;
   }
 }
