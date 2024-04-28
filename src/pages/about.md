@@ -10,19 +10,18 @@ In the first place, the organization had focused manily in Android development (
 BBJProjeK is currently just a placeholder for miscellaneous projects and innovation, based in Getafe, Madrid.
 
 ## Products
-
 BBJProjeK, as an organization, doesn't offer any product or service. Everything we do as an organization is completely <a href="https://git.bbjprojek.org">open source</a> and free.
 
 We usually make designs for some business and companies, but again, completely free and without warranty. We make things in the organization as a hobby.
 
 ## Projects
-
 Here are certain some notorious projects we did in the past years.
 
+- <a href="https://cabinet.bbjprojek.org/docs/authority/">BBJProjeK The Authority</a>
 - <a href="https://wiki.bbjprojek.org/projects/rfi">RFIMadrid - Madrid Railway Network</a>
 - <a href="https://wiki.bbjprojek.org/tools/artwork/">Artwork Finder</a>
-- <a href="https://wiki.bbjprojek.org/tools/treasures/">BBJProjeK Treasures Map</a>
 - <a href="https://wiki.bbjprojek.org/projects/rodaliamadrid/">Rodalia de Madrid - Suburban Railway</a>
+- <a href="https://cabinet.bbjprojek.org/docs/agency/">BBJProjeK The Agency</a>
 - <a href="https://wiki.bbjprojek.org/andenes/">Andenes del Metro</a>
 
 As said before, we made some branding and designs for other companies and local shops:
@@ -37,7 +36,4 @@ As said before, we made some branding and designs for other companies and local 
 </div>
 
 ## Tech Stack
-
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
-
 If you would like to join our amazing family, you can conctact us at [hello@bbjprojek.org](mailto:hello@bbjprojek.org). Or you may prefer just chat with us at our Telegram chat: [BBJProjeK The Authority (high unit variance)](https://t.me/bbjauthority).
