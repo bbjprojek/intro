@@ -11,8 +11,16 @@
     --color-card: 230, 230, 230;
     --color-card-muted: 205, 205, 205;
     --color-border: 236, 233, 233;
-    --ffamily-heading: "IBM Plex Mono",-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
-    --ffamily-text: "IBM Plex Mono",-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    --ffamily-heading: "Source Serif 4",-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    --ffamily-text: "Lato",-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  }
+
+  h1, h2, h3, h4 {
+    /* font-family: var(--ffamily-heading) */
+  }
+
+  a, p, li, ul, ol {
+    /* font-family: var(--ffamily-text) */
   }
 
   h3, h4 {
