@@ -114,7 +114,7 @@
 @media (prefers-color-scheme: dark) {
   :root, html {
     color-scheme: dark;
-    --color-fill: 28, 30, 33;
+    --color-fill: 0, 0, 0;
     --color-text-base: 234, 237, 243;
     --color-accent: 108, 172, 228;
     --color-card: 52, 63, 96;
