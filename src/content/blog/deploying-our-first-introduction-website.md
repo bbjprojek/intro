@@ -18,24 +18,21 @@ We just deployed this new frontend website for our main domain (bbjprojek.org). 
 
 ![Building portfolio](https://satnaing.dev/_ipx/w_2048,q_75/https%3A%2F%2Fres.cloudinary.com%2Fnoezectz%2Fimage%2Fupload%2Fv1653050141%2FSatNaing%2Fblog_at_cafe_ei1wf4.jpg?url=https%3A%2F%2Fres.cloudinary.com%2Fnoezectz%2Fimage%2Fupload%2Fv1653050141%2FSatNaing%2Fblog_at_cafe_ei1wf4.jpg&w=2048&q=75)
 
-## Finally
+## Finally, a Dedicated Page
+We've been always thinking about launching our introduction website but we never did. The main domain page (bbjprojek.org), since the beginning, always redirected to our [documentation / handbook](https://wiki.bbjprojek.org) webpage, until today... :D
 
-We've been always thinking about launching our introduction website but we never did. The main domain page (bbjprojek.org) was being redirected to our [documentation](https://wiki.bbjprojek.org) webpage, until today... :D
-
-We've done several stuff for our internal infrastructure but never "for the world". Not a blog, not a wiki page, just an introduction page, and it's finally here
+We've done several upgrades for our internal infrastructure lately but never launched something as simple as this. Not a blog, not a wiki page, just an introduction page, and it's finally here
 
 ## This is not a blog
-
 Fyi, this is not a blog but a place to hold some useful and important information.
 
 We have several ways to communicate public things in the organization;
 
 - **Main Blog**: Which is located at [https://wiki.bbjprojek.org/blog](https://wiki.bbjprojek.org/blog)
-- **Sergio's Personal Blog**: Which is located at [https://cabinet.bbjprojek.org/blog](https://cabinet.bbjprojek.org/blog)
-- **Pipermail**: It's a new public ticketing system (since Oct 2023) where we type and announce some important stuff which it will be quickly send to all @bbjprojek.org users. Available at [https://cabinet.bbjprojek.org/pipermail](https://cabinet.bbjprojek.org/pipermail)
+- **Sergio's Personal Blog / The Authority Docs**: Which is located at [https://cabinet.bbjprojek.org/blog](https://cabinet.bbjprojek.org/blog)
+- **XasPos**: A quick and convenient way to send, communicate and share information, product releases or any other thing with the whole organization or a selected team within the organization. Available at [https://cabinet.bbjprojek.org/xaspos](https://cabinet.bbjprojek.org/xaspos)
 
 ## Get to know us
-
 You could check our ["about us"](/about) page where we explain in a nuthsell what we do in the organization.
 
 You can chat with us in our public Telegram group where we are usually chatting about Android development, losing brain cells with kernels, dealing with dependences and having some fun talking about life.
@@ -43,7 +40,6 @@ You can chat with us in our public Telegram group where we are usually chatting 
 So if you want to have a virtual beer with us, don't hesitate to join the group: [BBJProjeK The Authority (high unit variance)](https://t.me/bbjauthority).
 
 ## Project Links
-
 - GitLab: [https://git.bbjprojek.org/](https://git.bbjprojek.org)
 - Blog: [https://wiki.bbjprojek.org/blog](https://wiki.bbjprojek.org/blog)
-- Repo: [https://github.com/satnaing/my-portfolio](https://github.com/satnaing/my-portfolio "https://github.com/satnaing/my-portfolio")
+- Repo: [https://git.bbjprojek.org/intro](https://git.bbjprojek.org/intro)
