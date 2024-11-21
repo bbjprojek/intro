@@ -9,15 +9,23 @@ In the first place, the organization had focused manily in Android development (
 
 BBJProjeK is currently just a placeholder for miscellaneous projects and innovation, based in Getafe, Madrid.
 
+## Infrastructure
+We have a modern and extended infrastructure for all member of BBJProjeK. We can higlight our [BBJProjeK Mail](https://mail.bbjprojek.org/), [XasPos](https://cabinet.bbjprojek.org/xaspos/), our public messaging platform, or [BBJProjeK CDN](https://cdn.bbjprojek.org), where unlimited* storage can be used for plenty of projects and build hours.
+
+Many of our infrastructure layout and guidelines are governed not only by our [Operations Working Group](https://wiki.bbjprojek.org/docs/team/operations-working-group/), but recently by The Ragyxo Team and their [RaBBAu Interal Notes](https://ragyxo.com/partners/rabbau-notes).
+
+You can learn more about different teams in our organization at the [BBJProjeK Handbook](https://wiki.bbjprojek.org/docs/team/).
+
 ## Products
-BBJProjeK, as an organization, doesn't offer any product or service. Everything we do as an organization is completely <a href="https://git.bbjprojek.org">open source</a> and free, and most projects are available at our <a href="https://git.bbjprojek.org">Git</a>.
+BBJProjeK, as an organization, doesn't offer any product or service. Everything we do as an organization is completely <a href="https://git.bbjprojek.org">open source</a> and free, and most projects are available at <a href="https://git.bbjprojek.org">GitLab</a>.
 
 We usually make designs for some business and companies, but again, completely free and without warranty. We make things in the organization as a hobby.
 
 ## Projects
-Here are certain some notorious projects we did in the past years.
+Here are certain some notorious external projects we did in the past years.
 
 - <a href="https://cabinet.bbjprojek.org/docs/agency/">BBJProjeK The Agency</a>
+- <a href="https://cabinet.bbjprojek.org/assets/sfp-chapter-x.pdf">BBJProjeK SFP Chapter X</a>
 - <a href="https://cabinet.bbjprojek.org/docs/authority/">BBJProjeK The Authority</a>
 - <a href="https://wiki.bbjprojek.org/projects/rfi">RFIMadrid - Madrid Railway Network</a>
 - <a href="https://wiki.bbjprojek.org/tools/artwork/">Artwork Finder</a>
@@ -40,4 +48,4 @@ As said before, we made some branding and designs for other companies and local 
 To get more information about our organization or about any other related work, just head to our [BBJProjeK Handbook](https://wiki.bbjprojek.org).
 
 ## Tech Stack
-If you would like to join our amazing family, you can conctact us at [hello@bbjprojek.org](mailto:hello@bbjprojek.org). Or you may prefer just chat with us at our Telegram chat: [BBJProjeK The Authority (high unit variance)](https://t.me/bbjauthority).
+If you would like to chat with us, or join our amazing family, you can contact us at [hello@bbjprojek.org](mailto:hello@bbjprojek.org). Or you may prefer just hang out at our Telegram chat: [BBJProjeK The Authority (high unit variance)](https://t.me/bbjauthority).
