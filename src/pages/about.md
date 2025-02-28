@@ -7,7 +7,7 @@ BBJProjeK was founded by <a href="https://github.com/thegabrielhoward">Gabriel H
 
 In the first place, the organization had focused manily in Android development (within the era of Android 8 to 11) with projects such as <a href="https://wiki.bbjprojek.org/docs/category/elementos/">ElementOS</a> but eventually turned in a multi-platform cabinet with projects such as tools for Windows and iOS apps development.
 
-BBJProjeK is currently just a placeholder for miscellaneous projects and innovation, based in Getafe, Madrid.
+BBJProjeK is currently just a placeholder for miscellaneous projects.
 
 ## Infrastructure
 We have a modern and extended infrastructure for all member of BBJProjeK. We can higlight our [BBJProjeK Mail](https://mail.bbjprojek.org/), [XasPos](https://cabinet.bbjprojek.org/xaspos/), our public messaging platform, or [BBJProjeK CDN](https://cdn.bbjprojek.org), where unlimited* storage can be used for plenty of projects and build hours.
