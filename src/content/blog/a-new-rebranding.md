@@ -3,7 +3,7 @@ title: Announcing a new rebranding of BBJProjeK
 author: Sergio Fernández
 pubDatetime: 2024-04-03T09:00:00.000+00:00
 slug: a-new-rebranding
-draft: false
+draft: true
 featured: false
 tags:
   - bbjprojek
