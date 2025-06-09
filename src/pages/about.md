@@ -43,9 +43,20 @@ As said before, we made some branding and designs for other companies and local 
 
 <div>
   <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
+
 
 To get more information about our organization or about any other related work, just head to our [BBJProjeK Handbook](https://wiki.bbjprojek.org).
 
+## Team
+At BBJProjeK, our strength lies in the diverse talents of our working groups—dedicated teams handling legal, operations, development, and design. Below are some of our standout members who drive innovation and uphold our open-source ethos.
+
+Starred contributors:
+- **Dyne Larsen** (OPWG/DEWG) – Infrastructure and DevOps lead (English, Swedish).
+- **Tillie Cole** (DAWG) – Multilingual legal expert (English, German, French).
+- **Giulia Mancia** (OPWG) – Infrastructure (English, Italian, Spanish).
+- **Tristan Riley** (DAWG/DEWG) – Cross-functional specialist in legal and development.
+- **Manuel Dávil**a (DEWG) – Key developer.
+- **Raj Marsell** (Locc Designers) – Creative force behind UI/UX and branding.
+
 ## Tech Stack
-If you would like to chat with us, or join our amazing family, you can contact us at [hello@bbjprojek.org](mailto:hello@bbjprojek.org). Or you may prefer just hang out at our Telegram chat: [BBJProjeK The Authority (high unit variance)](https://t.me/bbjauthority).
+If you would like to chat with us, or join our amazing family, you can contact us at [hello@bbjprojek.org](mailto:hello@bbjprojek.org). Or you may prefer just hang out at our Telegram chat: [BBJProjeK The Bureau (total eclipse)](https://t.me/bbjbureau).
