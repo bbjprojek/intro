@@ -30,15 +30,15 @@ export const SOCIALS: SocialObjects = [
     active: true,
   },
   {
-    name: "Instagram",
-    href: "https://instagram.com/bbjprojek",
-    linkTitle: `${SITE.title} on Instagram`,
-    active: true,
-  },
-  {
     name: "Spotify",
     href: "https://open.spotify.com/user/314s6xcauoqa3e5xs2vgjcimvdsa",
     linkTitle: `${SITE.title} on Spotify`,
+    active: true,
+  },
+  {
+    name: "Instagram",
+    href: "https://instagram.com/bbjprojek",
+    linkTitle: `${SITE.title} on Instagram`,
     active: true,
   },
   {
@@ -46,6 +46,24 @@ export const SOCIALS: SocialObjects = [
     href: "mailto:hello@bbjprojek.org",
     linkTitle: `Contact ${SITE.title} via email`,
     active: true,
+  },
+  {
+    name: "Telegram",
+    href: "https://t.me/bbjprojek_c",
+    linkTitle: `${SITE.title} on Telegram`,
+    active: true,
+  },
+  {
+    name: "Madrazo",
+    href: "https://opengeofiction.net/#map=18/-7.99539/169.74671",
+    linkTitle: "Starred square on RaBBAu",
+    active: true,
+  },
+  {
+    name: "Steam",
+    href: "https://github.com/satnaing/astro-paper",
+    linkTitle: `${SITE.title} on Steam`,
+    active: false,
   },
   {
     name: "Twitter",
@@ -111,18 +129,6 @@ export const SOCIALS: SocialObjects = [
     name: "Skype",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on Skype`,
-    active: false,
-  },
-  {
-    name: "Steam",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on Steam`,
-    active: false,
-  },
-  {
-    name: "Telegram",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on Telegram`,
     active: false,
   },
   {
