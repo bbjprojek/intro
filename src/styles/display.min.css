@@ -1,0 +1,1 @@
+.horz{display:none}@media screen and (orientation:landscape){.horz{display:block}.vert{display:none}}.dark{display:none}@media (prefers-color-scheme:dark){.dark{display:block}.light{display:none}}
