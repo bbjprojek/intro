@@ -1,6 +1,9 @@
 import type { Props } from "astro";
 import IconMail from "@/assets/icons/IconMail.svg";
-import IconGitHub from "@/assets/icons/IconGitHub.svg";
+import IconGitLab from "@/assets/icons/IconGitLab.svg";
+import IconSpotify from "@/assets/icons/IconSpotify.svg";
+// import IconXasPos from "@/assets/icons/IconXasPos.svg";
+import IconMadrazo from "@/assets/icons/IconMadrazo.svg";
 import IconBrandX from "@/assets/icons/IconBrandX.svg";
 import IconLinkedin from "@/assets/icons/IconLinkedin.svg";
 import IconWhatsapp from "@/assets/icons/IconWhatsapp.svg";
@@ -18,28 +21,39 @@ interface Social {
 
 export const SOCIALS: Social[] = [
   {
-    name: "GitHub",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on GitHub`,
-    icon: IconGitHub,
-  },
-  {
-    name: "X",
-    href: "https://x.com/username",
-    linkTitle: `${SITE.title} on X`,
-    icon: IconBrandX,
-  },
-  {
-    name: "LinkedIn",
-    href: "https://www.linkedin.com/in/username/",
-    linkTitle: `${SITE.title} on LinkedIn`,
-    icon: IconLinkedin,
+    name: "GitLab",
+    href: "https://git.bbjprojek.org",
+    linkTitle: `BBJProjeK GitLab`,
+    icon: IconGitLab, //fixme
   },
   {
     name: "Mail",
-    href: "mailto:yourmail@gmail.com",
-    linkTitle: `Send an email to ${SITE.title}`,
+    href: "https://mail.bbjprojek.org/",
+    linkTitle: `${SITE.title} Mail`,
     icon: IconMail,
+  },
+  {
+    name: "Spotify",
+    href: "https://open.spotify.com/user/314s6xcauoqa3e5xs2vgjcimvdsa",
+    linkTitle: `${SITE.title} on Spotify`,
+    icon: IconSpotify,
+  },
+  {
+    name: "Telegram",
+    href: "https://t.me/bbj_auth",
+    linkTitle: `${SITE.title} on Telegram`,
+    icon: IconTelegram,
+  },
+  //   name: "XasPos",
+  //   href: "https://bbjprojek.org/xaspos/",
+  //   linkTitle: `XasPos Messenger`,
+  //   icon: IconXasPos, //fixme
+  // },
+  {
+    name: "Madrazo",
+    href: "https://opengeofiction.net/#map=17/-7.99539/169.74671",
+    linkTitle: `Starred at Rabbau`,
+    icon: IconMadrazo,
   },
 ] as const;
 
