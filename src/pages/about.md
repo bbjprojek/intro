@@ -1,37 +1,62 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
+title: "About the organization"
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+BBJProjeK was founded by <a href="https://github.com/thegabrielhoward">Gabriel Howard</a> and <a href="https://sergio.bbjprojek.org">Sergio Fernández</a> in late 2019. It started as a placeholder and software development organization, making an infrastructure for developers and other members of the community to have a common place.
 
-![Astro Paper](public/astropaper-og.jpg)
+In the first place, the organization had focused manily in Android development (within the era of Android 8 to 11) with projects such as <a href="https://wiki.bbjprojek.org/docs/category/elementos/">ElementOS</a> but eventually turned in a multi-platform cabinet with projects such as tools for Windows and iOS apps development.
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+BBJProjeK is currently just a placeholder for miscellaneous projects.
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+## Infrastructure
+We have a modern and extended infrastructure for all member of BBJProjeK. We can higlight our [BBJProjeK Mail](https://mail.bbjprojek.org/), [XasPos](https://cabinet.bbjprojek.org/xaspos/), our public messaging platform, or [BBJProjeK CDN](https://cdn.bbjprojek.org), where unlimited* storage can be used for plenty of projects and build hours.
 
-## Features
+Many of our infrastructure layout and guidelines are governed not only by our [Operations Working Group](https://wiki.bbjprojek.org/docs/team/operations-working-group/), but recently by The Ragyxo Team and their [RaBBAu Interal Notes](https://ragyxo.com/partners/rabbau-notes).
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+You can learn more about different teams in our organization at the [BBJProjeK Handbook](https://wiki.bbjprojek.org/docs/team/).
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+## Products
+BBJProjeK, as an organization, doesn't offer any product or service. Everything we do as an organization is completely <a href="https://git.bbjprojek.org">open source</a> and free, and most projects are available at <a href="https://git.bbjprojek.org">GitLab</a>.
 
-and so much more.
+We usually make designs for some business and companies, but again, completely free and without warranty. We make things in the organization as a hobby.
 
-## Show your support
+## Projects
+Here are certain some notorious external projects we did in the past years.
 
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
+- <a href="https://cabinet.bbjprojek.org/docs/agency/">BBJProjeK The Agency</a>
+- <a href="https://cabinet.bbjprojek.org/assets/sfp-chapter-x.pdf">BBJProjeK SFP Chapter X</a>
+- <a href="https://cabinet.bbjprojek.org/docs/authority/">BBJProjeK The Authority</a>
+- <a href="https://wiki.bbjprojek.org/projects/rfi">RFIMadrid - Madrid Railway Network</a>
+- <a href="https://wiki.bbjprojek.org/tools/artwork/">Artwork Finder</a>
+- <a href="https://wiki.bbjprojek.org/projects/rodaliamadrid/">Rodalia de Madrid - Suburban Railway</a>
+- <a href="https://cabinet.bbjprojek.org/docs/bureau/">BBJProjeK The Bureau</a>
+- <a href="https://wiki.bbjprojek.org/andenes/">Andenes del Metro</a>
 
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
+As said before, we made some branding and designs for other companies and local shops:
 
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
+- The Bureau - Branding Design (August, 2024)
+- Horno Kaprichoso - Branding Design (March, 2024)
+- Factor Bike - Branding and Logo Design (January, 2024)
+- The Candy's Workshop - Branding Design (October, 2023)
+- Abocados - Branding Design (July, 2023)
 
-Kyay zuu! 🙏🏼
+<div>
+  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
+
+
+To get more information about our organization or about any other related work, just head to our [BBJProjeK Handbook](https://wiki.bbjprojek.org).
+
+## Team
+At BBJProjeK, our strength lies in the diverse talents of our working groups—dedicated teams handling legal, operations, development, and design. Below are some of our standout members who drive innovation and uphold our open-source ethos.
+
+Starred contributors:
+- **Dyne Larsen** (OPWG/DEWG) – Infrastructure and DevOps lead (English, Swedish).
+- **Tillie Cole** (DAWG) – Multilingual legal expert (English, German, French).
+- **Giulia Mancia** (OPWG) – Infrastructure (English, Italian, Spanish).
+- **Tristan Riley** (DAWG/DEWG) – Cross-functional specialist in legal and development.
+- **Manuel Dávil**a (DEWG) – Key developer.
+- **Raj Marsell** (Locc Designers) – Creative force behind UI/UX and branding.
+
+## Tech Stack
+If you would like to chat with us, or join our amazing family, you can contact us at [hello@bbjprojek.org](mailto:hello@bbjprojek.org). Or you may prefer just hang out at our Telegram chat: [BBJProjeK The Bureau (total eclipse)](https://t.me/bbjbureau).
