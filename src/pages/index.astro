@@ -24,8 +24,8 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
   <Header />
   <main id="main-content" data-layout="index">
     <section id="hero" class="pt-8 pb-6">
-      <h1 class="my-4 inline-block text-4xl font-bold sm:my-8 sm:text-5xl">
-        Mingalaba
+      <h1 class="my-4 inline-block text-4xl font-bold sm:my-8 sm:text-6xl">
+        The BBJProjeK Organization
       </h1>
       <a
         target="_blank"
@@ -35,37 +35,28 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
         title="RSS Feed"
       >
         <IconRss
-          width={20}
-          height={20}
+          width={17}
+          height={17}
           class="scale-125 stroke-accent stroke-3 rtl:-rotate-90"
-        />
+        /><br>
         <span class="sr-only">RSS Feed</span>
       </a>
 
       <p>
-        AstroPaper is a minimal, responsive, accessible and SEO-friendly Astro
-        blog theme. This theme follows best practices and provides accessibility
-        out of the box. Light and dark mode are supported by default. Moreover,
-        additional color schemes can also be configured.
+        BBJProjeK is a tiny placeholder for big projects, providing a unified
+        infrastructure where developers, designers, and engineers can collaborate.
+        Offering a suite of tools that foster creativity, ensure
+        success, and create outstanding projects in a familiar, user-friendly env.
       </p>
       <p class="mt-2">
-        Read the blog posts or check
+        Browse our
         <LinkButton
           class="underline decoration-dashed underline-offset-4 hover:text-accent"
-          href="https://github.com/satnaing/astro-paper#readme"
+          href="https://wiki.bbjprojek.org/docs/intro"
         >
-          README
-        </LinkButton> for more info.
+          handbook
+        </LinkButton>, follow us on social media, or check some of our open source projects.
       </p>
-      {
-        // only display if at least one social link is enabled
-        SOCIALS.length > 0 && (
-          <div class="mt-4 flex flex-col sm:flex-row sm:items-center">
-            <div class="me-2 mb-1 whitespace-nowrap sm:mb-0">Social Links:</div>
-            <Socials />
-          </div>
-        )
-      }
     </section>
 
     <Hr />
@@ -85,27 +76,6 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
         </>
       )
     }
-
-    {
-      recentPosts.length > 0 && (
-        <section id="recent-posts" class="pt-12 pb-6">
-          <h2 class="text-2xl font-semibold tracking-wide">Recent Posts</h2>
-          <ul>
-            {recentPosts.map(
-              (data, index) =>
-                index < SITE.postPerIndex && <Card variant="h3" {...data} />
-            )}
-          </ul>
-        </section>
-      )
-    }
-
-    <div class="my-8 text-center">
-      <LinkButton href="/posts/">
-        All Posts
-        <IconArrowRight class="inline-block rtl:-rotate-180" />
-      </LinkButton>
-    </div>
   </main>
   <Footer />
 </Layout>
