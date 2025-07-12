@@ -1,7 +1,7 @@
 export const SITE = {
   website: "https://bbjprojek.org",
   author: "The BBJProjeK Organization",
-  // profile: "https://satnaing.dev/",
+  profile: "https://bbjprojek.org",
   desc: "A tiny placeholder for big projects",
   title: "BBJProjeK",
   ogImage: "astropaper-og.jpg",
