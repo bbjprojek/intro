@@ -2,7 +2,7 @@ import type { Props } from "astro";
 import IconMail from "@/assets/icons/IconMail.svg";
 import IconGitLab from "@/assets/icons/IconGitLab.svg";
 import IconSpotify from "@/assets/icons/IconSpotify.svg";
-// import IconXasPos from "@/assets/icons/IconXasPos.svg";
+import IconXasPos from "@/assets/icons/IconXasPos.svg";
 import IconMadrazo from "@/assets/icons/IconMadrazo.svg";
 import IconBrandX from "@/assets/icons/IconBrandX.svg";
 import IconLinkedin from "@/assets/icons/IconLinkedin.svg";
@@ -44,11 +44,12 @@ export const SOCIALS: Social[] = [
     linkTitle: `${SITE.title} on Telegram`,
     icon: IconTelegram,
   },
-  //   name: "XasPos",
-  //   href: "https://bbjprojek.org/xaspos/",
-  //   linkTitle: `XasPos Messenger`,
-  //   icon: IconXasPos, //fixme
-  // },
+  {
+    name: "XasPos",
+    href: "https://bbjprojek.org/xaspos/",
+    linkTitle: `XasPos Messenger`,
+    icon: IconXasPos,
+  },
   {
     name: "Madrazo",
     href: "https://opengeofiction.net/#map=17/-7.99539/169.74671",
