@@ -22,15 +22,19 @@
     --border: #ECE9E9;
     --ffamily-heading: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
     --ffamily-text: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    --font-sans: var(--ffamily-text)!important;
+    --font-mono: var(--ffamily-text)!important;
   }
 
   h1, h2, h3, h4 {
-    font-family: var(--ffamily-heading)
+    font-family: var(--ffamily-heading);
   }
 
   a, p, li, ul, ol {
-    font-family: var(--ffamily-text)
+    font-family: var(--ffamily-text);
   }
+
+
 
   h3, h4 {
     font-style: italic;
