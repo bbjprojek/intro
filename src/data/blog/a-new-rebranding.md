@@ -29,7 +29,7 @@ We keep our corporate color scheme: **Pantone 7686C** as our default color, and 
 
 Our new default corporate font is **Source Serif 4**, a font by Adobe. We are keeping our Lato as an alternative typography. The font **Sagona**, introduced in the branding update v2b will still be used for several existing projects. Note that our logotype "the bbjprojek organization" uses DM Sans for its recreation, font that is also used on our projects.
 
-You can see our recently updated brand identity guidelines from May 2024 here: [BB-BG-23III-01.pdf](https://wiki.bbjprojek.org/media/BB-BG-24IV-00.pdf)
+You can see our recently updated brand identity guidelines from May 2024 here: [BB-BG-24IV-00](https://wiki.bbjprojek.org/media/BB-BG-24IV-00.pdf)
 
 We also started refactoring and rewriting most of our services and tasks in our [Lapiacery Infrascturure](https://lapiacery.bbjprojek.org/) (no, it's not dead yet) and combining multiple connected services into making everything integrated rather than shaped in a microservices nightmare. You can download our current brand identity guideline of Lapiacery here: [LP-BG-23III-00.pdf](https://wiki.bbjprojek.org/lapiacery/media/LP-BG-23III-00.pdf).
 

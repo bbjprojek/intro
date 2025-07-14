@@ -3,11 +3,11 @@ layout: ../layouts/MinLayout.astro
 title: "Privacy Policy"
 description: "Hello"
 ---
-*Last modified: July 12th, 2025*
+*Last modified: July 14th, 2025*
 
 BBJProjeK's Privacy Policy describes how we collect, use, and delete your data. In addition to this Privacy Policy, we provide data and privacy information specific to other products. The product-specific information can be found at each subdomain.
 
-By using the bbjprojek.org website and making use of a BBJProjeK Account (the “Account”) and all its related features, including BBJProjeK Mail, BBJProjeK CDN, BBJProjeK GitLab, BBJProjeK Drive, BBJProjeK Go+, Swift Lynx and other services (the “Services”) and other services like RaBBAu, or KanXras operated by the Ragyxo Foundation, you understand that your data in relation with your use of our Services is processed according to the following Privacy Policy and its product-specific privacy policies (together, the "Privacy Policy"). The Privacy Policy states (i) what data we collect through your access and uses of the Services; (ii) the use we make of such data; and (iii) the safeguards put in place to protect your data. The Privacy Policy is to be read and understood as being a complement to our Terms of Service.
+By using the bbjprojek.org website and making use of a BBJProjeK Account (the “Account”) and all its related features, including BBJProjeK Mail, BBJProjeK CDN, BBJProjeK GitLab, BBJProjeK Drive, BBJProjeK Go+, Swift Lynx and other services (the “Services”) and other services like RaBBAu, or KanXras operated by the Ragyxo Foundation, you understand that your data in relation with your use of our Services is processed according to the following Privacy Policy and its product-specific privacy policies (together, the "Privacy Policy"). The Privacy Policy states (i) what data we collect through your access and uses of the Services; (ii) the use we make of such data; and (iii) the safeguards put in place to protect your data. The Privacy Policy is to be read and understood as being a complement to our [Terms of Service](/terms-of-service/).
 
 ## 1. Legal framework
 The Services are operated by BBJProjeK Ltd (the Organization, “We”), domiciled at Rue du Général-Dufour 12, 1204 Geneva, Switzerland. It is therefore governed by the laws and regulations of Switzerland. Additional information about the legal framework can be found in our transparency report.

@@ -3,7 +3,9 @@ layout: ../layouts/MinLayout.astro
 title: "Terms of Service"
 ---
 
-*Last modified: July 12th, 2025*
+*Last modified: July 14th, 2025*
+
+Download in PDF: [TS-2025-07.pdf](https://gitlab.com/-/project/69132320/uploads/b5cde547172c9fca01f75175660c1fe0/TS-2025-07.pdf).
 
 By using the bbjprojek.org website and making use of a BBJProjeK Account (the “Account”) and all its related features, including BBJProjeK Mail, BBJProjeK CDN, BBJProjeK GitLab, BBJProjeK Drive, BBJProjeK Go+, Swift Lynx and other services (the “Services”) and other services like RaBBAu, or KanXras operated by the Ragyxo Foundation, you agree to be bound by the following terms of service (the “Terms”). These Terms cover all present and future features provided by your Account. The Services are operated by BBJProjeK Ltd. (“We”, the Organization), a Swiss organization located at Rue du Général-Dufour 12, 1204 Geneva, Switzerland, which is partially under the supervision of the non-profit The Ragyxo Foundation (Romania). Use of your Account or the Services includes registering an Account, keeping an Account open (not deleted by you or not deleted or deactivated by BBJProjeK), or accessing our website or mobile/desktop applications, or making use of our services. Please read these Terms carefully before you use your Account or the Services. By using your Account or the Services, you are agreeing to be bound by these Terms. You may not use your Account or the Services if you do not agree to these Terms. These Terms apply every time you use your Account or the Services.
 
@@ -22,19 +24,21 @@ You agree not to use your Account or the Services for any illegal or prohibited 
 You agree not to use your Account or the Services for any illegal or prohibited activities. Unauthorized activities include, but are not limited to:
 
 1. Disrupting the Organization's networks and Servers in your use of the Services;
-2. Accessing/sharing/downloading/uploading illegal content, including but not limited to Child Sexual Abuse Material (CSAM) or content related to CSAM;
-3. Infringing upon or violating the intellectual property rights of the Organization or a third party;
-4. Harassing, abusing, insulting, harming, defaming, slandering, disparaging, intimidating or discriminating against someone based on gender, sexual orientation, religion, ethnicity, race, age, nationality or disability;
-5. Trading, selling or otherwise transferring the ownership of an Account to a third party (with the exception of Lifetime Accounts, which can be sold or traded exclusively through the Organization);
-6. Promoting illegal activities or providing instructional information to other parties to commit illegal activities;
-7. Engaging in spam activities, which are defined as the practice of sending irrelevant or unsolicited messages or content over the internet, typically to a large number of recipients, notably for the purposes of advertising, phishing, or spreading malware or viruses;
-8. Sending junk mail, bulk emails, or mailing list emails that contain persons that have not specifically agreed to be included on that list. You agree not to use the Services to store or share content that violates the law or the rights of a third party;
-9. Abusive registrations of email aliases for third-party services;
-10. Using email address and aliases for the unique purpose of registering to third-party services;
-11. Attempting to access, probe, or connect to computing devices without proper authorization (i.e. any form of unauthorized "hacking");
+2. Leaking confidential information from the Organization;
+3. Accessing/sharing/downloading/uploading illegal content, including but not limited to Child Sexual Abuse Material (CSAM) or content related to CSAM;
+4. Infringing upon or violating the intellectual property rights of the Organization or a third party;
+5. Harassing, abusing, insulting, harming, defaming, slandering, disparaging, intimidating or discriminating against someone based on gender, sexual orientation, religion, ethnicity, race, age, nationality or disability;
+6. Sharing private code, repositories, or conversations to member outside the Organization without previous notice;
+7. Trading, selling or otherwise transferring the ownership of an Account to a third party (with the exception of Lifetime Accounts, which can be sold or traded exclusively through the Organization);
+8. Promoting illegal activities or providing instructional information to other parties to commit illegal activities;
+9. Engaging in spam activities, which are defined as the practice of sending irrelevant or unsolicited messages or content over the internet, typically to a large number of recipients, notably for the purposes of advertising, phishing, or spreading malware or viruses;
+10. Sending junk mail, bulk emails, or mailing list emails that contain persons that have not specifically agreed to be included on that list. You agree not to use the Services to store or share content that violates the law or the rights of a third party;
+11. Abusive registrations of email aliases for third-party services;
+12. Using email address and aliases for the unique purpose of registering to third-party services;
+13. Attempting to access, probe, or connect to computing devices without proper authorization (i.e. any form of unauthorized "hacking");
 Referring yourself or another one of your Accounts to unduly benefit from our referral program's benefits (see section 9 for discretionary benefits of the program).
 
-Any Account found to be committing any of the the listed unauthorized activities will be immediately suspended or restricted accordingly (which can include features and capabilities restrictions).
+Any Account found to be committing any of the listed unauthorized activities will be immediately suspended or restricted accordingly (which can include features and capabilities restrictions).
 
 The Organization may also terminate Accounts which are being used for illegal activities that are not listed above, particularly in response to orders from the competent authorities informing of such illegal activity.
 
@@ -49,15 +53,15 @@ The Organization reserves the right to suspend or delete Accounts that have been
 
 If you have been inactive on your free Account for a consecutive period of 12 months or more, access to your Account and all or part of the data associated with your Account (including but not limited to personal private repositories stored in GitLab, emails stored in BBJProjeK Mail, files stored on the CDN, passwords and 2SV codes stored in KanXras) may be deleted. You will receive notices 30, 15 and 7 days in advance before such action is taken on the recovery email associated with your Account.
 
-Accounts under an custom flag are always considered active and no action will be taken against your Account under this section. Terminating your flagged active Account will make your Account subject to this section again.
+Accounts under a custom flag are always considered active and no action will be taken against your Account under this section. Terminating your flagged active Account will make your Account subject to this section again.
 
 If your Account is not flagged, you are considered active by performing one of the following actions at least once in a period of 12 months:
 * Logging in to your Account on the web, desktop or mobile apps; or
-* If you are already logged in, using one of the products (for example, accessing your inbox in the web or any third-party app, reading an email, checing projects in GitLab, etc.).
+* If you are already logged in, using one of the products (for example, accessing your inbox in the web or any third-party app, reading an email, checking projects in GitLab, etc.).
 
 Activity is considered by Account, not by email address. Keeping an active Account ensures that any email addresses you created for that Account (@bbjprojek.org, @bbj.me, etc.) also remain active.
 
-If you are subject to insurmountable circumstances that won't allow you to stay active on your Account in a period of 12 months, please contact our OPWG so that they can prevent deletion under this section.
+If you are subject to insurmountable circumstances that won't allow you to stay active on your Account in a period of 12 months, please contact our [Operations Working Group](https://wiki.bbjprojek.org/docs/team/operations-working-group/) so that they can prevent deletion under this section.
 
 ## 4. Limited warranties and liability
 The Organization does not make any warranty about the reliability of the Services or the security of user data, despite best efforts. The Service is provided “as is” and “as available,” without warranty of any kind, either express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, title, accuracy, non-infringement, or warranties that may arise from course of dealing or course of performance or usage of trade.
@@ -76,7 +80,7 @@ IF YOU ARE A CALIFORNIA RESIDENT, YOU WAIVE CALIFORNIA CIVIL CODE § 1542, WHICH
 You agree that the Organization, and any parents, subsidiaries, officers, directors, employees, agents, or third-party contractors (the "Indemnified Parties") cannot be held responsible for any third-party claim, demand, or damages, including reasonable attorneys’ fees, arising out of your use of your Account or the Services. You agree that the Indemnified Parties will have no liability in connection with any such third-party claim, demand, or damages, and you agree to indemnify any and all resulting loss, damages, judgments, awards, costs, expenses, and attorneys’ fees and litigation expenses of the Indemnified Parties in connection therewith. You will also indemnify and hold the Indemnified Parties harmless from and against any third-party claims, demands, or damages arising out of your use of your Account or the Services.
 
 ## 6. Privacy
-Our Privacy Policy and its sub-policies explain the way we handle and protect your personal data and privacy in relation to your Account, your use of the Services, and your browsing of the bbjprojek.org and its subdomains websites. By agreeing to the present Terms and to be able to use the Services, you also agree to our Privacy Policy and its sub-policies.
+Our [Privacy Policy](/privacy-policy/) and its sub-policies explain the way we handle and protect your personal data and privacy in relation to your Account, your use of the Services, and your browsing of the bbjprojek.org and its subdomains websites. By agreeing to the present Terms and to be able to use the Services, you also agree to our Privacy Policy and its sub-policies.
 
 If, in the provision of the Services, the Organization processes, on the user’s behalf (where the user acts as a Data Controller), any personal data that is subject to the EU General Data Protection Regulation (GDPR), the company’s data processing agreement shall apply.
 
@@ -127,10 +131,10 @@ If this class action waiver is limited, voided, or found unenforceable, then, un
 
 **Opt out provision and governing law**. You have the right to opt-out and not be bound by the arbitration provisions including or excluding the class action waiver set forth in these Terms by sending written notice of your decision to opt-out to:
 
-BBJProjeK Ltd
-Attn: Legal
-Rue du Général-Dufour, 12
-1204 Geneva
+BBJProjeK Ltd.<br>
+Attn: Legal<br>
+Rue du Général-Dufour, 12<br>
+1204 Geneva<br>
 Geneva, Switzerland
 
 The opt-out notice must be sent to the foregoing address within 30 calendar days of your first agreeing to these Terms. Should you not opt out in accordance with this section within the 30-day period, then this agreement to arbitrate will become fully effective and binding as of the date you first agreed to these Terms. If you opt out of only the arbitration provisions, and not also the class action waiver, the class action waiver still applies. You may not opt out of only the class action waiver, but not the other arbitration provisions.
