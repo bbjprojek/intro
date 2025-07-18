@@ -22,6 +22,7 @@ body {
 :root {
   --background: #E8EEFD;
   --foreground: #202020;
+  --branding: #1D4F91;
   --ffamily: "IBM Plex Mono", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   --ffamily-code: ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", Menlo, Courier, monospace;
   --gutter-width: 1rem;
@@ -46,6 +47,7 @@ body {
     color-scheme: dark;
     --background: #0F121A;
     --foreground: #FFFFFF;
+    --branding: #6CACE4;
   }
 }
 
@@ -93,7 +95,7 @@ h1, h2, h3, h4, a, p, ol, ul {
 }
 
 .wpum-form .wpum-required {
-  color: red
+  color: var(--branding);
 }
 
 .wpum-form fieldset {
@@ -389,11 +391,11 @@ h6 {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #495057;
+  color: var(--branding);
   text-align: center;
   white-space: nowrap;
-  background-color: #e9ecef;
-  border: 1px solid #ced4da;
+  background-color: var(--branding);
+  border: 1px solid var(--branding);
   border-radius: .25rem
 }
 
@@ -550,7 +552,6 @@ h6 {
   --line-height: 1.5;
   --line-height-pre: 22px;
   --article-font-size: 1.7rem;
-  --overlay-color: rgba(0, 0, 0, .65)
 }
 
 :root {
@@ -1513,12 +1514,12 @@ a:hover {
 
 .entry-content a:active,
 .entry-content a:hover {
-  color: #1D4F91;
+  color: var(--branding);
   text-decoration: none
 }
 
 .entry-content .wp-block-button .wp-block-button__link {
-  background-color: #1D4F91;
+  background-color: var(--branding);
   border-radius: 0;
   color: #FFFFFF;
   text-decoration: none
@@ -1544,7 +1545,7 @@ img.wp-post-image {
 }
 
 .entry-meta span {
-  color: #adadad;
+  color: var(--branding);
   font-size: 14px;
   line-height: 18px
 }
@@ -1659,7 +1660,7 @@ img.wp-post-image {
 }
 
 .register-page form .checkbox-box label a {
-  color: #fe4709;
+  color: var(--branding);
   font-weight: 700
 }
 
@@ -1834,8 +1835,8 @@ img.wp-post-image {
 .wpum-form [name=submit_password_recovery],
 .wrapper.login .entry-content .wp-block-button>*,
 .wrapper.reset-password .entry-content .wp-block-button>* {
-  background-color: #202020;
-  color: #FFFFFF;
+  background-color: var(--foreground);
+  color: var(--background);
   padding: .5rem;
   font-size: 18px;
   border: none;
