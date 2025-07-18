@@ -1521,7 +1521,7 @@ a:hover {
 .entry-content .wp-block-button .wp-block-button__link {
   background-color: var(--branding);
   border-radius: 0;
-  color: #FFFFFF;
+  color: var(--background);
   text-decoration: none
 }
 
@@ -1594,7 +1594,7 @@ img.wp-post-image {
 
 .edge-to-edge-image.has-text:after {
   content: "";
-  background: transparent linear-gradient(180deg, rgba(0, 0, 0, 0) 0, #000 100%) 0 0 no-repeat padding-box;
+  background: transparent linear-gradient(180deg, rgba(0, 0, 0, 0) 0, #FFFF 100%) 0 0 no-repeat padding-box;
   position: absolute;
   width: 100%;
   height: 100%;
@@ -1794,7 +1794,7 @@ img.wp-post-image {
 
 @media (min-width:1024px) {
   .wrapper.login .entry-content>:nth-child(1) {
-    border-right: 2px solid #000;
+    border-right: 2px solid;
     padding-right: 120px
   }
 }
